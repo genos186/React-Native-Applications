@@ -5,5 +5,5 @@ It has the same feature set as existing workflows while operating faster, more s
 App.js is the source java-script file, connecting all the other files(Screens,Components). 
 Src folder consists of two sub-folders:
   1.SCREENS- screen display UI code 
-  2.CCOMPONENTS- components module part of Screens
+  2.COMPONENTS- components module part of Screens
 And the BASIC LAYOUT text file required for starting a new screen/component.
