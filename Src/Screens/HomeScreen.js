@@ -30,6 +30,9 @@ export default function HomeScreen({navigation}) {
       <Button
         onPress={() => navigation.navigate('Box')}
         title='Go to Box' />
+      <Button
+        onPress={() => navigation.navigate('Loc')}
+        title='Go to Location Bar' />
     </View>
   );
 }
